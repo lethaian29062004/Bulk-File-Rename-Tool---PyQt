@@ -65,19 +65,28 @@ It’s time-consuming, boring, and prone to human error. This is where **Bulk Fi
 
 
 ## How to Run
-####
+
 **1** - Clone the source code into your PC.
+
 **2** - Open you preferred IDE (**Visual Studio Code recommended**).
+
 **3** - Open the project folder, then open the terminal .
 
 **4** - Create a virtual environment :
-<pre lang="markdown"> ```bash python -m venv ./venv source venv/bin/activate # On macOS/Linux venv\Scripts\activate # On Windows ``` </pre>
+<pre lang="markdown"> 
+ ```bash python -m venv ./venv 
+ source venv/bin/activate # On macOS/Linux 
+ venv\Scripts\activate # On Windows ``` </pre>
+
 
 **5** - Install required dependencies :
 `pip install requirements.txt`    
-[If you got an error, try 'pip install PyQt5 '] 
+
+[If you got an error, try `pip install PyQt5 `] 
+
 
 **6** - Run the application :
+
 `python rprenamer.py`
 
 
