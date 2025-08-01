@@ -1,7 +1,7 @@
 # Bulk File Rename Tool 
 
 
-## 📁 Description
+## Description
 
 Have you ever faced the hassle of renaming dozens — or even hundreds — of files manually ?
 It’s time-consuming, boring, and prone to human error. This is where **Bulk File Rename Tool** comes to the rescue !
@@ -10,16 +10,16 @@ It’s time-consuming, boring, and prone to human error. This is where **Bulk Fi
 
 
 
-## 🎯 Key Features
-🧠 **Smart Renaming:** Rename files using a custom prefix + automatic numbering.
+## Key Features
+**Smart Renaming:** Rename files using a custom prefix + automatic numbering.
 
-🖼️ **File Filtering:** Works great with images, Python files, or any extension you want.
+**File Filtering:** Works great with images, Python files, or any extension you want.
 
-⚡ **Responsive UI:** Powered by PyQt threads to avoid GUI freezing during renaming.
+**Responsive UI:** Powered by PyQt threads to avoid GUI freezing during renaming.
 
-🛠️ **Built with Qt Designer:** Clean and intuitive interface for maximum productivity.
+**Built with Qt Designer:** Clean and intuitive interface for maximum productivity.
 
-📂 **Pathlib Integration:** Handles files and folders in a clean, cross-platform way.
+**Pathlib Integration:** Handles files and folders in a clean, cross-platform way.
 
 
 
@@ -74,19 +74,17 @@ It’s time-consuming, boring, and prone to human error. This is where **Bulk Fi
 
 **4** - Create a virtual environment :
 <pre lang="markdown"> 
- ```bash python -m venv ./venv 
+ bash python -m venv ./venv 
  source venv/bin/activate # On macOS/Linux 
- venv\Scripts\activate # On Windows ``` </pre>
+ venv\Scripts\activate # On Windows </pre>
 
 
 **5** - Install required dependencies :
 `pip install requirements.txt`    
-
 [If you got an error, try `pip install PyQt5 `] 
 
 
 **6** - Run the application :
-
 `python rprenamer.py`
 
 
