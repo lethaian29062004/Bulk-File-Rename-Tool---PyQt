@@ -3,8 +3,8 @@
 
 ## 📁 Description
 
-Have you ever faced the hassle of renaming dozens — or even hundreds — of files manually?
-It’s time-consuming, boring, and prone to human error. This is where **Bulk File Rename Tool** comes to the rescue!
+Have you ever faced the hassle of renaming dozens — or even hundreds — of files manually ?
+It’s time-consuming, boring, and prone to human error. This is where **Bulk File Rename Tool** comes to the rescue !
 
 **Bulk File Rename Tool** is a simple yet powerful desktop application built with **Python + PyQt** that helps you rename multiple files in a folder **in seconds**. Whether you’re organizing personal photos, Python scripts, or any type of file — this tool can save you hours of work.
 
