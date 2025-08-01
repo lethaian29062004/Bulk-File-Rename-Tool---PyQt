@@ -75,8 +75,8 @@ It’s time-consuming, boring, and prone to human error. This is where **Bulk Fi
 **4** - Create a virtual environment :
 <pre lang="markdown"> 
  bash python -m venv ./venv 
- source venv/bin/activate # On macOS/Linux 
- venv\Scripts\activate # On Windows </pre>
+ source venv/bin/activate # **On macOS/Linux** 
+ venv\Scripts\activate # **On Windows** </pre>
 
 
 **5** - Install required dependencies :
